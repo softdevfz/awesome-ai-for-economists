@@ -54,6 +54,7 @@ A curated list of AI tools, agent skills, libraries, and resources for economics
 [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) servers let AI assistants query economic databases directly. Connect Claude, Cursor, or other MCP-compatible tools to live data from FRED, World Bank, IMF, and more.
 
 - [Alpha Vantage MCP](https://mcp.alphavantage.co/) - Official server for stocks, forex, commodities, and economic indicators.
+- [BirkinBagStock](https://birkinbagstock.com/developers) - Query pre-owned Hermès asking prices, resale inventory, and country-level market comparisons through a public hosted MCP server.
 - [Data Commons MCP Server](https://github.com/datacommonsorg/agent-toolkit) - Official Data Commons server, hosted with a free key or run locally, serving Census, World Bank, BLS, and WHO statistics. ![GitHub stars](https://img.shields.io/github/stars/datacommonsorg/agent-toolkit?style=flat-square)
 - [ECB MCP Server](https://github.com/scka-de/ecb-mcp) - Query European Central Bank exchange rates, policy rates, yield curves, and euro-area monetary statistics. ![GitHub stars](https://img.shields.io/github/stars/scka-de/ecb-mcp?style=flat-square)
 - [Equibles MCP](https://github.com/daniel3303/Equibles) - Self-hosted, open-source server for SEC filings, XBRL financials, 13F holdings, insider trades, short interest, CFTC positioning, and federal contracts. ![GitHub stars](https://img.shields.io/github/stars/daniel3303/Equibles?style=flat-square)
